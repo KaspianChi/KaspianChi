@@ -90,10 +90,10 @@
 ### 2. Тест-дизайн и документация.
 [Ссылка на репозиторий](https://github.com/KaspianChi/Design)
 
+[Ссылка на репозиторий](https://github.com/KaspianChi/Docs)
+
 ### 3. Тестирование веб-приложений.
 [Ссылка на репозиторий](https://github.com/KaspianChi/Web)
-
-[Ссылка на репозиторий](https://github.com/KaspianChi/Docs)
 
 ### 4. Тестирование API.
 [Ссылка на репозиторий](https://github.com/KaspianChi/Api)
