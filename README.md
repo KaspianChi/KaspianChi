@@ -7,7 +7,7 @@
 Увлеченный начинающий тестировщик, завершивший курс от Артёма Русова. Обладаю знаниями в области ручного тестирования. Готов применять полученные навыки на практике, тщательно анализировать требования и выявлять дефекты для обеспечения высокого качества программного обеспечения. Стремлюсь к постоянному профессиональному росту в сфере QA.
 Здесь я хочу поделиться тем, чему научился и что сделал за время прохождения курса.
 
-- 📫 Как связаться со мной: [![LinkedIn Badge](https://img.shields.io/badge/-@DemchiloD-blue?style=flat&logo=LinkedIn&logoColor=white)](https//www.linkedin.com/in/dmitry-demchilo/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:kaspianchi@gmail.com)
+- 📫 Как связаться со мной: [![LinkedIn Badge](https://img.shields.io/badge/-@DemchiloD-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/dmitry-demchilo/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:kaspianchi@gmail.com)
 
 ---
 
